@@ -1,7 +1,7 @@
 <div align="center">
 <picture>
-  <source srcset="https://github.com/open-energy-transition/oet-website/blob/main/assets/img/oet-logo-red-n-subtitle.png?raw=true">
-  <img alt="Open Energy Transition Logo" width="500px" src="https://github.com/open-energy-transition/oet-website/blob/main/assets/img/oet-logo-red-n-subtitle.png?raw=true">
+  <source srcset="https://github.com/open-energy-transition/oet-website/raw/main/assets/img/oet-logo-red-n-subtitle.png">
+  <img alt="Open Energy Transition Logo" width="500px" src="https://github.com/open-energy-transition/oet-website/raw/main/assets/img/oet-logo-red-n-subtitle.png">
   <a href="https://www.openenergytransition.org/"</a>
 </picture>
 </div>
