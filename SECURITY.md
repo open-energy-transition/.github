@@ -1,23 +1,16 @@
 <!--
-SPDX-FileCopyrightText: gb-dispatch-model contributors
+SPDX-FileCopyrightText: Open Energy Transition GmBH
 SPDX-License-Identifier: CC0-1.0
 -->
 
 # Security Policy
 
-## Supported Versions
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 0.3.x   | :white_check_mark: |
-| < 0.3   | :x:                |
-
 ## Reporting a Vulnerability
 
-To report a vulnerability, the preferred method is to use the GitHub ["Report a vulnerability" button](https://github.com/open-energy-transition/gb-dispatch-model/security/advisories/new) under the "Security and quality" tab.
+To report a vulnerability, the preferred method is to use the GitHub "Report a vulnerability" button under the repository's "Security and quality" tab.
 This will create a private communication channel between the reporter and the repository maintainers.
 
-If you are absolutely unable to or have strong reasons not to use GitHub's vulnerability reporting workflow, please reach out to the OET security team: <security@openenergytransition.org>.
+If you are absolutely unable to or have strong reasons not to use GitHub's vulnerability reporting workflow, please reach out to the OET security team: <security@openenergytransition<!--.example-->.org>.
 
 A lead maintainer or security team member will acknowledge your report within 2 business days, and will follow up with next steps shortly after.
 The security team will endeavor to keep you informed of the progress towards a fix and full announcement, and may ask for additional information or guidance.
