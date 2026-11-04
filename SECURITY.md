@@ -7,7 +7,7 @@ SPDX-License-Identifier: CC0-1.0
 
 ## Reporting a Vulnerability
 
-To report a vulnerability, the preferred method is to use the GitHub "Report a vulnerability" button under the repository's "Security and quality" tab.
+To report a vulnerability, the preferred method is to use the GitHub ["Report a vulnerability"](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability) button under the repository's "Security and quality" tab.
 This will create a private communication channel between the reporter and the repository maintainers.
 
 If you are absolutely unable to or have strong reasons not to use GitHub's vulnerability reporting workflow, please reach out to the OET security team: <security@openenergytransition<!--.example-->.org>.
